@@ -1,4 +1,4 @@
 ---
-title: Welcome to my website!
+title: Wii U eshop revival
 ---
 
